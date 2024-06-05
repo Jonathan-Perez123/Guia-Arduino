@@ -1,4 +1,4 @@
-# **1 Introducción a Arduino**
+# **1. Introducción a Arduino**
 
 En esta sección aprenderemos qué es Arduino, cómo funciona, etc… Para poder programar estas placas es necesario entender de qué se trata toda esta plataforma, Arduino. 
 
