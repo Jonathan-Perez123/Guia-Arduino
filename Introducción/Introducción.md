@@ -1,7 +1,4 @@
 # **1. Introducción a Arduino**
-
-## **1.6 Instalando Arduino IDE**
-
 En esta sección aprenderemos qué es Arduino, cómo funciona, etc… Para poder programar estas placas es necesario entender de qué se trata toda esta plataforma, Arduino. 
 
 ## **1.1 ¿Qué es Arduino?**
