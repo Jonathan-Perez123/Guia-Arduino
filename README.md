@@ -1,7 +1,7 @@
 # Guia-Arduino
 Una recopilacion de informacion para adentrarse en el manejo de este software y hardware.
 
-- [1- Introducción](1 Introducción/1 Introducción.md) [enlace]([1- Introducción](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
+- [1- Introducción](1 Introducción/1 Introducción.md) [enlace](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [2- Conceptos básicos](2- Conceptos básicos)
 - [3- Interactuando con la placa](3- Interactuando con la placa/)
 - [4- Sentencias condicionales](4- Sentencias condicionales/)
