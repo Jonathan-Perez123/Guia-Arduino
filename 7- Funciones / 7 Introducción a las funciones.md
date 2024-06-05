@@ -1,0 +1,3 @@
+# **7 Introducción a las funciones**
+
+Las funciones son una manera de escribir menos líneas de código, esto se logra encapsulando una sección de código en una función para luego utilizarla, te pongo como ejemplo, quieres encender un led rojo cada vez que un sensor detecte un movimiento, lo que puedes hacer es que cada vez que necesites encenderlo en vez de escribir digitalWrite(led, HIGH) llamas a una función llamada `EncenderLedRojo(); `
